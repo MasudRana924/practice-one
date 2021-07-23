@@ -1,0 +1,39 @@
+body{
+    margin:0 auto;
+}
+
+.dockit{
+    color: #0E1244;
+    font-size:26px;
+    width: 72px;
+    margin-left: 134px;
+ 
+}
+.anchor-link {
+text-decoration: none;
+margin-right: 50px;
+color:#0E1244;
+}
+.anchor-link-two{
+    text-decoration: none;
+    color:#0E1244;
+}
+.h-one {
+    color:#0E1244; 
+}
+
+.form{
+    width:470px;
+    height:370px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+.form input{
+    background-color: #F6F6F6;
+   margin: 20px 0px 0px 20px;
+}
+.form button{
+    margin-left:20px;
+    width:385px;
+    border-radius: 15px;
+}
