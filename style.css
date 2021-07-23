@@ -6,7 +6,7 @@ body{
     color: #0E1244;
     font-size:26px;
     width: 72px;
-    margin-left: 134px;
+    margin-left: 40px;
  
 }
 .anchor-link {
@@ -17,6 +17,7 @@ color:#0E1244;
 .anchor-link-two{
     text-decoration: none;
     color:#0E1244;
+    margin-right: 60px;
 }
 .h-one {
     color:#0E1244; 
